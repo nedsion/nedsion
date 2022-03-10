@@ -3,8 +3,6 @@
 
 *Try and fail,but don't fail to try!*
 
-![](https://i.imgur.com/Ue0jft0.gif)
-
 ![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)
 
 ## Socials
@@ -13,3 +11,5 @@
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=flat&logo=python&logoColor=#1e415e) 
 
+## Stats
+[![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsion)](https://github.com/nedsion)

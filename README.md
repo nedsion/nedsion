@@ -4,8 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)
 
-## Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nedsion/) 
+## Contact me via
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nedsion/) 
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram)](https://t.me/nedsion)
+
 
 ## Tech Stack
 

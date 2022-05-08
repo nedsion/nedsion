@@ -9,7 +9,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nedsion/) 
 
 ## Tech Stack
+
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br />
+<br />
+
+---
 
 ## Stats
 [![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsion)](https://github.com/nedsion)

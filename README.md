@@ -1,5 +1,5 @@
 # About Me
-*Hi, I'm Edith Nguyen!* 👋
+*Hi, I'm Edith Nguyen!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *Try and fail,but don't fail to try!*
 
@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nedsion/) 
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-%23323330.svg?style=flat&logo=python&logoColor=#1e415e) 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 ## Stats
 [![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsion)](https://github.com/nedsion)

@@ -2,7 +2,7 @@
 
 *Try and fail,but don't fail to try!*
 
-<img alt="gif" "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+<img alt="gif" align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 
 ![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)
 

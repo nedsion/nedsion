@@ -1,11 +1,11 @@
-<h3 align="center">
+<h2 align="center">
     Hi There
     <img src="https://github.com/nedsion/nedsion/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
     I'm Edith Nguyen!
-</h3>
+</h2>
 
 <h5 align="center">Try and fail,but don't fail to try!</h5>
 

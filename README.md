@@ -1,5 +1,7 @@
 ### *Hi, I'm Edith Nguyen!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
+<script src="https://gist.github.com/Jawinski/b506cc6c789ffba7e7ce378507631178.js"></script>
+
 *Try and fail,but don't fail to try!*
 
 <img alt="gif" align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>

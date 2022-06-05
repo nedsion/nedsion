@@ -1,5 +1,4 @@
-### *Hi, I'm Edith Nguyen!* 
-<img src="https://github.com/nedsion/nedsion/blob/main/wave.gif" 
+<h3>*Hi, I'm Edith Nguyen!* </h3><img src="https://github.com/nedsion/nedsion/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />

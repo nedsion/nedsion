@@ -7,7 +7,7 @@
     I'm Edith Nguyen!
 </h3>
 
-<b align="center">Try and fail,but don't fail to try!</b>
+<h5 align="center">Try and fail,but don't fail to try!</h5>
 
 <img alt="gif" align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 

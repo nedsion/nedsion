@@ -11,7 +11,6 @@
 
 <img alt="gif" align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 
-![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)
 
 ## Contact me via
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nedsion/) 
@@ -33,3 +32,6 @@
 If you feel like showing your love and/or appreciation for my projects, then how about shouting me a coffee ❤
 
 [![Foo](https://camo.githubusercontent.com/c3f856bacd5b09669157ed4774f80fb9d8622dd45ce8fdf2990d3552db99bd27/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67)](https://www.buymeacoffee.com/nedsion)
+
+
+![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)

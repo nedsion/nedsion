@@ -38,4 +38,4 @@ If you feel like showing your love and/or appreciation for my projects, then how
 
 ![](https://komarev.com/ghpvc/?username=nedsion&label=Visitors+Count&color=brightgreen)
 
-[![snake](https://raw.githubusercontent.com/phanirithvij/phanirithvij/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+[![snake](https://raw.githubusercontent.com/nedsion/nedsion/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
